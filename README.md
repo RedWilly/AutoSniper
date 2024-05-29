@@ -58,6 +58,10 @@ This bot is provided as-is, for educational purposes only. Using trading bots in
 
 Pull requests are welcome! Let's make AutoSniper the most feared (or loved?) bot on Base.
 
+##  🙏 Shoutout 
+
+If you find this bot useful or just want to show some love, my ETH/Base address is `0x5A79eC71355b5fBebA59828D4307a9a796D19DA4`. Happy sniping
+
 ## License
 
 This project is licensed under the MIT License. 
